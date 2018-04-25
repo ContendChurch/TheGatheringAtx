@@ -623,3 +623,12 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	margin-bottom: 20px;
 	color: #fff;
 }
+
+#works {
+	color: #fff;
+}
+
+#works h3 {
+	color: #fff;
+	margin-top: 35px;
+}
